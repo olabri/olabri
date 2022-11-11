@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @olabri
-- 👀 I’m at https://snabelen.no/@olabri
+- 👀 I’m at <a rel="me" href="https://snabelen.no/@olabri">Mastodon</a>
 - 🌱 I’m currently working at UiB
 
 

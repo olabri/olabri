@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @olabri
 - 👀 I’m at <a rel="me" href="https://snabelen.no/@olabri">Mastodon</a>
-- 🌱 I’m currently working at UiB
+- 🌱 I’m currently working at StormGeo
 
 
 <!---
